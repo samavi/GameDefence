@@ -9,9 +9,13 @@ These code replicates the experiments from the following paper:
 Each .py file corresponds to one of the experiment from the paper:
 
 > l2_online.py: replicates optimal attack with L2 defense in online learning
-> LBGameExperiment.py: replicates optimal attack with LBDefense defense 
+>
+> LBGameExperiment.py: replicates optimal attack with LBDefense defense
+>
 > PCAGame.py: replicates PCA Game Analysis: PCA-Aware attack with PCA defense in online learning
+>
 > MultidayCurie.py: replicates multiday optimal sneaky attack with Curie defense
+>
 > mixDefense.py: replicates the algorithm to approximate for the NE defense strategy
 
 
