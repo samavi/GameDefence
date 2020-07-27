@@ -23,6 +23,7 @@ Each .py file corresponds to one of the experiment from the paper:
 Datasets used:
 
 > Spambase Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data
+>
 > MNIST Dataset: http://yann.lecun.com/exdb/mnist/ (loaded from tensorflow keras in the experiment code)
 
 Dependencies:
